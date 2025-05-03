@@ -6,7 +6,7 @@
 
 :root {
     --text-color: white;
-    --bg-url: url(./assets/bg-mobile.jpg);
+    --bg-url: linear-gradient(135deg, #473f36 0%, #b26a3d 100%);
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.5);
     --surface-color-hover: rgba(0, 0, 0, 0.2);
@@ -16,7 +16,7 @@
 
 .light {
     --text-color: black;
-    --bg-url: url(./assets/imgt.jpg);
+    --bg-url: linear-gradient(135deg, #dfdad6 0%, #b6622d 100%);
     --stroke-color: rgba(0, 0, 0, 0.5);
     --surface-color: rgba(0, 0, 0, 0.08);
     --surface-color-hover: rgba(0, 0, 0, 0.05);
